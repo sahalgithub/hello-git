@@ -1,6 +1,6 @@
 # My Git Project
 
-My code project here
+My scary merge conflict code
 
 ## I'm the future branch
 
